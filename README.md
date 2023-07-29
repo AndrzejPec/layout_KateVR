@@ -1,6 +1,8 @@
 # KateVR landing page (HARD)
 
-**⚠️ Attention: this is a hard landing page for development. We highly recommend choosing this landing page only if you didn't have a lot of troubles with previous homework tasks and if you sent all homework in time (didn't miss deadlines).** 
+Jestem hardkorem! 😎 <!-- <<kabel mi od internetu urwiesz!>> -->:
+
+**⚠️ Attention: this is a hard landing page for development. We highly recommend choosing this landing page only if you didn't have a lot of troubles with previous homework tasks and if you sent all homework in time (didn't miss deadlines).**
 
 Implement landing page according to [Figma design](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR?node-id=1%3A370) - Use BEM and SCSS
 
